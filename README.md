@@ -17,10 +17,10 @@
 ============================================================
 
 <h2>What the website looks like</h2>
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/1.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/2.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/3.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/4.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/5.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/6.png" width="600px" height="600px">
-<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/7.png" width="600px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/1.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/2.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/3.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/4.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/5.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/6.png" width="800px" height="600px">
+<img src="https://github.com/StyleWebCode/Expense_Tracker/blob/194b9b3e4839b01123b60b6824bba51767e2c39b/ScrennShot/7.png" width="800px" height="600px">
