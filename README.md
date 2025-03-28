@@ -10,9 +10,10 @@
 
 ============================================================
 
-<a href="https://www.youtube.com/@stylewebcode"><h2>YouTube - Style Web Code</h2></a>
-<a href="https://www.instagram.com/stylewebcode"><h2>Instagram - Style Web Code</h2></a>
-<a href="https://codepen.io/stylewebcode"><h2>Codepen - Style Web Code</h2></a>
+<h2>Social Media Activity</h2>
+<a href="https://www.youtube.com/@stylewebcode"><h3>YouTube - Style Web Code</h3></a>
+<a href="https://www.instagram.com/stylewebcode"><h3>Instagram - Style Web Code</h3></a>
+<a href="https://codepen.io/stylewebcode"><h3>Codepen - Style Web Code</h3></a>
 
 ============================================================
 
